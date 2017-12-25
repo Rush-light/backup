@@ -1,3 +1,3 @@
-document.write("090-1111-2222");
+var a ="山本";
 
-document.write("")
+document.wirte(a);
