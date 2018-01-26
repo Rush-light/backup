@@ -1,7 +1,11 @@
 {
   "version": "v1",
   "title": "Eclipse",
+<<<<<<< HEAD
   "timestamp": 1516960208978,
+=======
+  "timestamp": 1516788410432,
+>>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
   "ttl": 10080,
   "helpUrl": "https://dev.eclipse.org/recommenders/community/aeri/v2/help/",
   "feedbackUrl": "https://www.codetrails.com/error-analytics/",
@@ -67,5 +71,9 @@
     "org.eclipse.pde.core::The current target platform contains errors*",
     "org.eclipse.ui::Conflicting handlers for*"
   ],
+<<<<<<< HEAD
   "problemsZipLastDownloadTimestamp": 1516960523342
+=======
+  "problemsZipLastDownloadTimestamp": 1516788717472
+>>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
 }

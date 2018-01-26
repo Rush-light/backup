@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<<<<<<< HEAD
 <listEntry value="/TestDB/src/ChkLoadJdbc.java"/>
+=======
+<listEntry value="/TestDB/src/ChkLoadjdbc.java"/>
+>>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
+<<<<<<< HEAD
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ChkLoadJdbc"/>
+=======
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ChkLoadjdbc"/>
+>>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestDB"/>
 </launchConfiguration>

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [[{"location":"C:\\Users\\testuser\\Desktop\\workspace\\workspace-okuyama\\backup\\DBConnector","type":"PROJECT","hints":{"PROJECT_NAME":"DBConnector"}},"ABSENT"],[{"location":"C:\\pleiades\\eclipse\\jre","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
+=======
+[[{"location":"C:\\eclipse\\pleiades\\java\\8","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
+>>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
