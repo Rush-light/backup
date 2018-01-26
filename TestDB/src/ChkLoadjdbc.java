@@ -1,12 +1,10 @@
-/**
- *
- */
+package src;
 
 /**
  * @author testuser
  *
  */
-public class ChkLoadjdbc {
+public class ChkLoadJdbc {
 
 	/**
 	 * @param args
