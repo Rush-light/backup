@@ -1,8 +1,6 @@
+import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
-import com.mysql.jdbc.Connection;
-
 
 
 
@@ -42,7 +40,7 @@ public class DBConnector {
 		Connection con=null;
 		try{
 			Class.forName(driverName);
-			con=(Connection)DriverManager.getConnection(url,user,password);
+			con=(Connection) DriverManager.getConnection(url,user,password);
 		}catch (ClassNotFoundException e){
 			e.printStackTrace();
 		}catch(SQLException e){
