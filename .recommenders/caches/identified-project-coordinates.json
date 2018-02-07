@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+[[{"location":"C:\\pleiades\\eclipse\\jre","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
+=======
 [[{"location":"C:\\eclipse\\pleiades\\tomcat\\8\\lib\\servlet-api.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"C:\\eclipse\\pleiades\\eclipse\\jre","type":"JRE","hints":{}},"jre:jre:1.8.0"]]
+>>>>>>> 0953ac7f4676928747d4331c7e17e0474d4b3b49
