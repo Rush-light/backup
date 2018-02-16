@@ -11,8 +11,12 @@
 2018-01-24 19:47:22,781 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 >>>>>>> 4e0770c925b8cd9ec72db1561eb44a075847c9a8
 2018-01-26 22:15:36,587 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+<<<<<<< HEAD
+2018-01-29 19:35:59,703 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+=======
 2018-01-29 19:06:08,531 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
 2018-02-05 19:04:32,790 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+<<<<<<< HEAD
 2018-02-14 19:21:02,543 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
 2018-02-14 19:21:48,057 [main] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot download published Gradle versions.
 java.net.SocketException: Software caused connection abort: recv failed
@@ -146,3 +150,8 @@ java.net.SocketException: Software caused connection abort: recv failed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1515) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
+=======
+>>>>>>> 0953ac7f4676928747d4331c7e17e0474d4b3b49
+>>>>>>> d415ddf90c53f63ca4bd283bdb96d49a7dc04c76
+2018-02-14 21:57:28,876 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2018-02-16 19:25:12,323 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.

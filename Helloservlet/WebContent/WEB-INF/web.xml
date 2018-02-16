@@ -22,7 +22,10 @@
   </servlet-mapping>
   <servlet>
   <servlet-name>Inquiry</servlet-name>
-  <url-pattern>/HelloServlet/InqyiryServlet</url-pattern>
+  <servlet-class>InquiryServlet</servlet-class>
   </servlet>
-
+  <servlet-mapping>
+  <servlet-name>Inquiry</servlet-name>
+  <url-pattern>/HelloServlet/InquiryServlet</url-pattern>
+  </servlet-mapping>
 </web-app>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <session version="1.0">
+<<<<<<< HEAD
+<refactoring comment="リソース &apos;login&apos; を削除" deleteContents="true" description="リソース &apos;login&apos; を削除" element1="/login" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1517998352511"/>
+=======
 <refactoring comment="リソース &apos;HelloJSP&apos; を削除" deleteContents="true" description="リソース &apos;HelloJSP&apos; を削除" element1="/HelloJSP" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1517824460847"/>
+>>>>>>> 0953ac7f4676928747d4331c7e17e0474d4b3b49
 </session>

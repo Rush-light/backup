@@ -2,6 +2,7 @@
 
 import java.io.IOException;
 import java.io.PrintWriter;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -39,7 +40,7 @@ public class WelcomeServlet extends HttpServlet {
 			System.out.println(username);
 
 			PrintWriter out = response.getWriter();
-			out.println("<html><head></head><body><br>"+username"+さん、ようこそ！</body></html>")
+			out.println("<html><head></head><body><br>"+username + "さん、ようこそ！</body></html>");
 	}
 
 }
