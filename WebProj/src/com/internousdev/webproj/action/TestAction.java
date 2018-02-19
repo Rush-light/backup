@@ -18,4 +18,12 @@ public class TestAction extends ActionSupport {
 		this.username=username;
 	}
 
+	public String getPassword(){
+		return password;
+	}
+
+	public void setPassword(String password){
+		this.password=password;
+	}
+
 }
