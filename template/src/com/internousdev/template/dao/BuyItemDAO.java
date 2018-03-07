@@ -3,6 +3,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
+import com.internousdev.template.dto.BuyItemDTO;
 import com.internousdev.template.util.DBConnector;
 public class BuyItemDAO {
 
@@ -21,8 +22,8 @@ ResultSet resultSet = preparedStatement.executeQuery();
 
 if(resultSet.next()) {
 
-buyItemDTO.setId(resultSet.getInt("id"));
-buyItemDTO.setItemName(resultSet.getString("item_name"));
+BuyItemDTO.setId(resultSet.getInt("id"));
+BuyItemDTO.setItemName(resultSet.getString("item_name"));
 buyItemDTO.setItemPrice(resultSet.getString("item_price"));
 
 }
