@@ -25,7 +25,7 @@
 			<result name="back">login.jsp</result>
 		</action>
 
-		<action name="UserCerateConfirmAction" class="com.internousdev.ecsite.action.UserCreateConfirmAction" method="execute">
+		<action name="UserCreateConfirmAction" class="com.internousdev.ecsite.action.UserCreateConfirmAction" method="execute">
 			<result name="success">userCreateConfirm.jsp</result>
 			<result name="error">userCreate.jsp</result>
 		</action>
@@ -44,7 +44,7 @@
 			<result name="back">buyItem.jsp</result>
 		</action>
 
-		<action name="BuyItemCompleteAction" class="com.internousdev.ecsite.action.BuyItemAction" method="execute">
+		<action name="BuyItemCompleteAction" class="com.internousdev.ecsite.action.BuyItemCompleteAction" method="execute">
 			<result name="success">home.jsp</result>
 		</action>
 

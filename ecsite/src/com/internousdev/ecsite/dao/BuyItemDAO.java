@@ -14,7 +14,7 @@ public class BuyItemDAO {
 	private Connection connection = dbConnector.getConnection();
 	private BuyItemDTO buyItemDTO = new BuyItemDTO();
 
-	public BuyItemDTO getBuyIteminfo() {
+	public BuyItemDTO getBuyItemInfo() {
 		String sql = "SELECT id, item_name, item_price FROM item_info_transaction";
 
 		try {
